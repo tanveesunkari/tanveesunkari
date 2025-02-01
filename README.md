@@ -1,16 +1,13 @@
-## Hi there 👋
+# About me
 
-<!--
-**tanveesunkari/tanveesunkari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Tanvee's GitHub Profile 👋
 
-Here are some ideas to get you started:
+Hey there, my name is Tanvee Sunkari. I am currently a third-year at the University of Virginia. I am majoring in Computer Science and minoring in Data Science and Psycology! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on building an AI/ML model that processes stock and space news, integrating APIs, and developing a chatbot.
+- 🌱 I’m currently learning React, AI/ML, and expanding my knowledge in UX/UI design.
+- 👯 I’m looking to collaborate on web development, AI/ML projects, and hackathons.
+- 💬 Ask me about traveling or finding the best food spots.
+- 📫 How to reach me: jcm5md@virginia.edu
+- 😄 Pronouns: she / her
+- ⚡ Fun fact: I've never broken a bone or gotten stung by a bee before.
